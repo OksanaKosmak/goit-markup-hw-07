@@ -1,0 +1,9 @@
+header {
+    background-color: var(--color-background-third);   
+    border-bottom: 1px solid var(--color-background-border-header);     
+}
+
+.header-inner {
+    align-items: center;
+    display: flex;
+}
